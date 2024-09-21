@@ -1,5 +1,5 @@
 # IIB Project API Submodule
-This repository contains the API submodules for the MegaSoft project (using IBM Integration Bus). It provides simple functionalities that can be integrated into different components of the larger MegaSoft software suite.
+This repository contains the API submodules for IIB arithmetic API project. It provides simple functionalities that can be integrated into different components within larger applications.
 ## Features
 - API for Addition
 - API for Subtraction
